@@ -19,4 +19,7 @@ public class GFG{
         // Close the scanner
         sc.close();
     }
+
+
+    k=hellooooooooo
 }
